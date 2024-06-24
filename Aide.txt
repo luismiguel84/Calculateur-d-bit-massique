@@ -1,0 +1,11 @@
+Les resultats obtenus avec ce calculateur correspondent a la norme ISO 2533
+	
+Veuillez entrer les parametres comme ceci:
+
+	Volume en m^3, si vous saissisez un debit en l/min par exemple le resultat sera proportionnel
+
+	Pression athmo en mbar, pour rappel, 1000 mbar = 100KPa, (par defaut 1013.25 mbar)
+
+	Temperature en degres Celsius (par defaut 15 degres)
+
+	Humidite en pourcentage (par defaut 50)
